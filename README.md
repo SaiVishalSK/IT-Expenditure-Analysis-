@@ -59,7 +59,7 @@ This page is designed for executive-level decision making.
 
 ---
 
-### **📌 Page 2 – Deep Dive Analysis**
+###  Page 2 – Deep Dive Analysis**
 This page focuses on detailed breakdowns:
 
 - Country-wise IT Spend (Filled Map)  
